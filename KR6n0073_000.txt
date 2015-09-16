@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 辯中邊論頌
+#+DATE: 2015-08-30 20:57:29.481880
+#+PROPERTY: JUAN 0
